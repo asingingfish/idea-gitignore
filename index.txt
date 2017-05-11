@@ -4,3 +4,4 @@ now, I write a new line.
 这是远程的修改+1。
 这是本地的修改+1.
 开始测试GUI.
+开始GUI冲突测试.
