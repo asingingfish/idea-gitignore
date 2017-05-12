@@ -5,4 +5,5 @@ now, I write a new line.
 这是本地的修改+1.
 开始测试GUI.
 开始GUI冲突测试.
+异地修改+1.
 本地修改+1.
