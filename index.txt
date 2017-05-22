@@ -1,10 +1,1 @@
-this is a file.
-now, I write a new line.
-我去掉了dev上的修改
-这是远程的修改+2。
-这是本地的修改+1.
-开始测试GUI.
-开始GUI冲突测试.
-异地修改+1.
-本地修改+1.
-别人修改+1.
+now, it's clear
