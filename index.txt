@@ -7,3 +7,4 @@ now, I write a new line.
 开始GUI冲突测试.
 异地修改+1.
 本地修改+1.
+别人修改+1.
